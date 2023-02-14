@@ -6,7 +6,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Libre Baskerville', serif;
-    padding: 50px;
+    padding: 75px;
 }
 h1,h2,p{
     text-align: center;  
@@ -34,12 +34,12 @@ h2{
     margin-bottom: 30px;
 }
 .tea-menu{
-    max-width: 700px;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 80%;
     background-color: #56718963;
-    padding: 40px 60px 40px 60px;
+    padding: 20px 30px 20px 30px;
     /* background-color: orange; */
     box-shadow: 4px 13px 14px 18px rgba(194,188,188,0.54);
     -webkit-box-shadow: 4px 13px 14px 18px rgba(194,188,188,0.54);
@@ -51,8 +51,8 @@ h2{
 }
 img{
     /* display: block; */
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
     /* margin: auto; */
     margin: auto 5px;
 }
