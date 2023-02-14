@@ -1,7 +1,7 @@
 
 body{
     /* background-color: #E0D8B0 !important; */
-    color: #000000 !important; 
+    color: #ffffff !important; 
     background-image: url(https://github.com/newviex/img/blob/main/pexels-samer-daboul-2011264.jpg?raw=true);
     background-size: cover;
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@ h1,h2,p{
     text-align: center;  
 }
 h1{
-    font-size: 40px;
+    font-size: 35px;
     margin: 0;
 }
 h2{
@@ -38,7 +38,7 @@ h2{
     margin-left: auto;
     margin-right: auto;
     width: 80%;
-    background-color: #56718963;
+    background-color: #0a25356a;
     padding: 20px 30px 20px 30px;
     /* background-color: orange; */
     box-shadow: 4px 13px 14px 18px rgba(194,188,188,0.54);
@@ -74,14 +74,14 @@ img{
     text-align: left;
     color: whitesmoke;
     font-weight: bold;
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 .tea-price, .collection-price{
     width: 25%;
     /* background-color: #e8e2e2; */
     text-align: right;
     color: whitesmoke;
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 footer{
     font-size: 14px;
